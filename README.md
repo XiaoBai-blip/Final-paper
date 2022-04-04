@@ -1,5 +1,3 @@
-# starter_folder
+# Readme - Toronto Fire Incident
 
-This repo....
-
-It is organised as follows...
+The project is written in Rstudio. The data set that was used in this project is collected from Open data Toronto, and it relates to the information about Toronto's fire incidents that were defined by the Ontario Fire Marshal. The dataset contains 43 variables and 117,536 observations. The study mainly focus on identifying the potential factors that cause fire incident in Toronto. Specifically, I will investigate if the dollar loss depends on different number of responding firefighters as well as different methods of fire control.
